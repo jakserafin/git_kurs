@@ -1,1 +1,5 @@
-pierwszy commit v2
+pierrwszy commit v2
+
+druga zmiana 
+
+drugie zmiany w przeczytaj_to.txt
