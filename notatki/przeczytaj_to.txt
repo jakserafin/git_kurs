@@ -7,6 +7,10 @@ drugie zmiany w przeczytaj_to.txt
 
 druga zmiana
 
+
 kolejna zmiana
 
 praca rownolegla- spis tresci
+
+kolejna zmiana_1
+spis tresci - praca rownolegla - WIP
