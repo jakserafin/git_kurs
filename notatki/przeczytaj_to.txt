@@ -14,3 +14,5 @@ praca rownolegla- spis tresci
 
 kolejna zmiana_1
 spis tresci - praca rownolegla - WIP
+
+rozdzial o clonowaniu
